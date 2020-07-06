@@ -1,0 +1,10 @@
+.btn-default{
+    color: #009999;
+    background-color: #f8f8f8;
+    border-color: #009999;
+    
+}
+.panel >.panel-heading{
+    background-color: #fff;
+    color: #080808;
+}
